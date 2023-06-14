@@ -1,12 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# # Lab 5 Data Structures
-# 
-# Resources
-# - https://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.io.json.json_normalize.html
-# - https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.merge.html
-# - https://docs.python.org/2/library/xml.etree.elementtree.html
 
 # In[1]:
 
