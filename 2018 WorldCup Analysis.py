@@ -17,7 +17,7 @@ import sqlite3
 # In[2]:
 
 
-# Run this cell to import the following JSON strings
+# Running the cell to import the following JSON strings
 players = '[{"name":"Gazinsky","team":"Russia"},{"name":"Dzyuba","team":"Russia"},{"name":"Lukaku","team":"Belgium"}]'
 stadium_data = '{"stadiums":[{"name": "Ekaterinburg Arena","city": "Ekaterinburg"},{"name": "Luzhniki Stadium","city": "Moscow"},{"name": "Nizhny Novgorod Stadium","city": "Nizhny Novgorod"}]}'
 
